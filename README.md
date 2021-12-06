@@ -1,0 +1,1 @@
+Backgammon game built upon server-client architecture and built using JavaScript
